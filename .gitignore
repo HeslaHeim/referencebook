@@ -1,0 +1,6 @@
+# Temporary scripts, extracted pages, previews and inspection output.
+/work/
+
+# Python bytecode caches.
+__pycache__/
+*.py[cod]
